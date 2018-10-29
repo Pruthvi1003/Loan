@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC504F3E2186DCFC00562729 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F3C2186DCFC00562729 /* MainTabBarController.swift */; };
+		AC504F452186E61600562729 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F432186E61600562729 /* HomeViewController.swift */; };
+		AC504F462186E61600562729 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F442186E61600562729 /* HomeViewController.xib */; };
+		AC504F492186E62400562729 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F472186E62400562729 /* ProductViewController.swift */; };
+		AC504F4A2186E62400562729 /* ProductViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F482186E62400562729 /* ProductViewController.xib */; };
+		AC504F4D2186E63200562729 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F4B2186E63200562729 /* ProfileViewController.swift */; };
+		AC504F4E2186E63200562729 /* ProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F4C2186E63200562729 /* ProfileViewController.xib */; };
+		AC504F562186E91500562729 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F542186E91500562729 /* LoginViewController.swift */; };
+		AC504F572186E91500562729 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F552186E91500562729 /* LoginViewController.xib */; };
+		AC504F5A2187065A00562729 /* ApplyLoanViewC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F582187065A00562729 /* ApplyLoanViewC.swift */; };
+		AC504F5B2187065A00562729 /* ApplyLoanViewC.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F592187065A00562729 /* ApplyLoanViewC.xib */; };
+		AC504F5F21870AF300562729 /* HomeTableHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F5E21870AF300562729 /* HomeTableHeader.xib */; };
+		AC504F6121870B0A00562729 /* HomeTableHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6021870B0A00562729 /* HomeTableHeader.swift */; };
+		AC504F6321870DA200562729 /* KeysAndValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6221870DA200562729 /* KeysAndValues.swift */; };
+		AC504F6521870E8B00562729 /* HomeTableSectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6421870E8B00562729 /* HomeTableSectionHeader.swift */; };
+		AC504F6721870E9900562729 /* HomeTableSectionHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F6621870E9900562729 /* HomeTableSectionHeader.xib */; };
+		AC504F6A21870FDA00562729 /* XLProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6821870FD900562729 /* XLProgressHUD.swift */; };
+		AC504F6B21870FDA00562729 /* SwiftNotice.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6921870FDA00562729 /* SwiftNotice.swift */; };
+		AC504F6E218716C300562729 /* HomeTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F6C218716C300562729 /* HomeTableCell.swift */; };
+		AC504F6F218716C300562729 /* HomeTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F6D218716C300562729 /* HomeTableCell.xib */; };
+		AC504F7221873A9200562729 /* HomeCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC504F7021873A9200562729 /* HomeCollectionCell.swift */; };
+		AC504F7321873A9200562729 /* HomeCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC504F7121873A9200562729 /* HomeCollectionCell.xib */; };
 		AC83EBB9218048DE00A3C817 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC83EBB8218048DE00A3C817 /* AppDelegate.swift */; };
 		AC83EBBB218048DE00A3C817 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC83EBBA218048DE00A3C817 /* ViewController.swift */; };
 		AC83EBBE218048DE00A3C817 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC83EBBC218048DE00A3C817 /* Main.storyboard */; };
@@ -35,6 +57,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC504F3C2186DCFC00562729 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		AC504F432186E61600562729 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		AC504F442186E61600562729 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		AC504F472186E62400562729 /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
+		AC504F482186E62400562729 /* ProductViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductViewController.xib; sourceTree = "<group>"; };
+		AC504F4B2186E63200562729 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		AC504F4C2186E63200562729 /* ProfileViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileViewController.xib; sourceTree = "<group>"; };
+		AC504F542186E91500562729 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		AC504F552186E91500562729 /* LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		AC504F582187065A00562729 /* ApplyLoanViewC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyLoanViewC.swift; sourceTree = "<group>"; };
+		AC504F592187065A00562729 /* ApplyLoanViewC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ApplyLoanViewC.xib; sourceTree = "<group>"; };
+		AC504F5E21870AF300562729 /* HomeTableHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableHeader.xib; sourceTree = "<group>"; };
+		AC504F6021870B0A00562729 /* HomeTableHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableHeader.swift; sourceTree = "<group>"; };
+		AC504F6221870DA200562729 /* KeysAndValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeysAndValues.swift; sourceTree = "<group>"; };
+		AC504F6421870E8B00562729 /* HomeTableSectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableSectionHeader.swift; sourceTree = "<group>"; };
+		AC504F6621870E9900562729 /* HomeTableSectionHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableSectionHeader.xib; sourceTree = "<group>"; };
+		AC504F6821870FD900562729 /* XLProgressHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XLProgressHUD.swift; sourceTree = "<group>"; };
+		AC504F6921870FDA00562729 /* SwiftNotice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftNotice.swift; sourceTree = "<group>"; };
+		AC504F6C218716C300562729 /* HomeTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableCell.swift; sourceTree = "<group>"; };
+		AC504F6D218716C300562729 /* HomeTableCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableCell.xib; sourceTree = "<group>"; };
+		AC504F7021873A9200562729 /* HomeCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCollectionCell.swift; sourceTree = "<group>"; };
+		AC504F7121873A9200562729 /* HomeCollectionCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeCollectionCell.xib; sourceTree = "<group>"; };
 		AC83EBB5218048DE00A3C817 /* Loan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Loan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC83EBB8218048DE00A3C817 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC83EBBA218048DE00A3C817 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +120,79 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC504F3B2186DCCB00562729 /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F6221870DA200562729 /* KeysAndValues.swift */,
+				AC504F6921870FDA00562729 /* SwiftNotice.swift */,
+				AC504F6821870FD900562729 /* XLProgressHUD.swift */,
+				AC504F3C2186DCFC00562729 /* MainTabBarController.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		AC504F402186E5ED00562729 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F5D21870AD500562729 /* View */,
+				AC504F5C21870AC300562729 /* Controller */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		AC504F412186E5F800562729 /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F472186E62400562729 /* ProductViewController.swift */,
+				AC504F482186E62400562729 /* ProductViewController.xib */,
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		AC504F422186E60000562729 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F4B2186E63200562729 /* ProfileViewController.swift */,
+				AC504F4C2186E63200562729 /* ProfileViewController.xib */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		AC504F532186E90300562729 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F542186E91500562729 /* LoginViewController.swift */,
+				AC504F552186E91500562729 /* LoginViewController.xib */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		AC504F5C21870AC300562729 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F432186E61600562729 /* HomeViewController.swift */,
+				AC504F442186E61600562729 /* HomeViewController.xib */,
+				AC504F582187065A00562729 /* ApplyLoanViewC.swift */,
+				AC504F592187065A00562729 /* ApplyLoanViewC.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		AC504F5D21870AD500562729 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				AC504F5E21870AF300562729 /* HomeTableHeader.xib */,
+				AC504F6021870B0A00562729 /* HomeTableHeader.swift */,
+				AC504F6421870E8B00562729 /* HomeTableSectionHeader.swift */,
+				AC504F6621870E9900562729 /* HomeTableSectionHeader.xib */,
+				AC504F6C218716C300562729 /* HomeTableCell.swift */,
+				AC504F6D218716C300562729 /* HomeTableCell.xib */,
+				AC504F7021873A9200562729 /* HomeCollectionCell.swift */,
+				AC504F7121873A9200562729 /* HomeCollectionCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		AC83EBAC218048DE00A3C817 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +216,11 @@
 		AC83EBB7218048DE00A3C817 /* Loan */ = {
 			isa = PBXGroup;
 			children = (
+				AC504F532186E90300562729 /* Login */,
+				AC504F422186E60000562729 /* Profile */,
+				AC504F412186E5F800562729 /* Product */,
+				AC504F402186E5ED00562729 /* Home */,
+				AC504F3B2186DCCB00562729 /* Root */,
 				AC83EBB8218048DE00A3C817 /* AppDelegate.swift */,
 				AC83EBBA218048DE00A3C817 /* ViewController.swift */,
 				AC83EBBC218048DE00A3C817 /* Main.storyboard */,
@@ -232,9 +354,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC504F4E2186E63200562729 /* ProfileViewController.xib in Resources */,
+				AC504F5B2187065A00562729 /* ApplyLoanViewC.xib in Resources */,
 				AC83EBC6218048E100A3C817 /* LaunchScreen.storyboard in Resources */,
 				AC83EBC3218048E100A3C817 /* Assets.xcassets in Resources */,
+				AC504F7321873A9200562729 /* HomeCollectionCell.xib in Resources */,
+				AC504F6F218716C300562729 /* HomeTableCell.xib in Resources */,
+				AC504F6721870E9900562729 /* HomeTableSectionHeader.xib in Resources */,
+				AC504F462186E61600562729 /* HomeViewController.xib in Resources */,
+				AC504F4A2186E62400562729 /* ProductViewController.xib in Resources */,
+				AC504F572186E91500562729 /* LoginViewController.xib in Resources */,
 				AC83EBBE218048DE00A3C817 /* Main.storyboard in Resources */,
+				AC504F5F21870AF300562729 /* HomeTableHeader.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +390,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC504F6121870B0A00562729 /* HomeTableHeader.swift in Sources */,
+				AC504F492186E62400562729 /* ProductViewController.swift in Sources */,
+				AC504F6A21870FDA00562729 /* XLProgressHUD.swift in Sources */,
+				AC504F6321870DA200562729 /* KeysAndValues.swift in Sources */,
+				AC504F452186E61600562729 /* HomeViewController.swift in Sources */,
+				AC504F6B21870FDA00562729 /* SwiftNotice.swift in Sources */,
 				AC83EBBB218048DE00A3C817 /* ViewController.swift in Sources */,
 				AC83EBB9218048DE00A3C817 /* AppDelegate.swift in Sources */,
+				AC504F7221873A9200562729 /* HomeCollectionCell.swift in Sources */,
+				AC504F6E218716C300562729 /* HomeTableCell.swift in Sources */,
+				AC504F6521870E8B00562729 /* HomeTableSectionHeader.swift in Sources */,
+				AC504F562186E91500562729 /* LoginViewController.swift in Sources */,
+				AC504F5A2187065A00562729 /* ApplyLoanViewC.swift in Sources */,
+				AC504F4D2186E63200562729 /* ProfileViewController.swift in Sources */,
+				AC504F3E2186DCFC00562729 /* MainTabBarController.swift in Sources */,
 				AC83EBC1218048DE00A3C817 /* Loan.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -435,6 +579,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GE84AK3EL4;
 				INFOPLIST_FILE = Loan/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +597,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GE84AK3EL4;
 				INFOPLIST_FILE = Loan/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
